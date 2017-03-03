@@ -1,0 +1,50 @@
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Thumbnails
+._*
+
+### Windows template
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+### Project and Temporary files
+_Store
+.idea/*
+.buildpath
+.project
+.settings/*
+.ftpquota
+_/.ftpquota
+
+### VisutalStudioCode
+.vscode
+
+### textmate
+*.tmproj
+*.tmproject
+tmtags
+
+### Notepad++ backups
+*.bak
