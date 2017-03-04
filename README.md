@@ -5,9 +5,9 @@ Run MailCatcher as a linux container using Docker from a CentOS 7 images.
 [Source Repository / Contribute / Fork this project on Github.](https://github.com/danydavila/centos-mailcatcher)
 
 #### About MailCatcher
-[MailCatcher](https://mailcatcher.me/) runs a super simple SMTP server which catches any message sent to it to display in a web interface. Run mailcatcher, set your favourite app to deliver to smtp://127.0.0.1:1025 instead of your default SMTP server, then check out http://127.0.0.1:1080 to see the mail that's arrived so far.     
+[MailCatcher](https://mailcatcher.me/) runs a super simple SMTP server which catches any message sent to it to display in a web interface. Run mailcatcher, set your favourite app to deliver to smtp://127.0.0.1:1025 instead of your default SMTP server, then check out http://127.0.0.1:1080 to see the mail that's arrived so far. Read more at [mailcatcher.me](https://mailcatcher.me/)     
 
-![MailCatcher](./mailcatcher-preview.png)
+![MailCatcher Preview](https://raw.githubusercontent.com/danydavila/centos-mailcatcher/master/mailcatcher-preview.png)
 
 #### Pull from Docker:     
 
